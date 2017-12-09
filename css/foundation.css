@@ -4938,3 +4938,9 @@ nav {
   padding-right: 5px;
   float:right;
 }
+
+.socialiconleft {
+  max-width: 50px;
+  padding-right: 5px;
+  float:left;
+}
