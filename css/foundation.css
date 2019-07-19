@@ -1103,6 +1103,7 @@ h1 {
 h2 {
   font-size: 1.6875em;
   color: #ec1e27;
+  text-shadow: 2px 2px #ff0000;
 }
 
 h3 {
