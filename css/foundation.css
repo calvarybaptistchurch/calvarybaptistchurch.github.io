@@ -4945,11 +4945,16 @@ nav {
 }
 
 .socialiconleft {
-  font-weight: 400;
+  font-weight: 800;
   max-width: 80px;
   padding: 5px 20px 25px 5px;
   display: inline-block;
 }
+
+.center-text {
+  text-align: center;
+}
+
 #video-background {
 /*  making the video fullscreen  */
   position: fixed;
