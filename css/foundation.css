@@ -4949,7 +4949,7 @@ nav {
   padding-right: 5px;
   padding-bottom: 5px;
   padding-top: 5px;
-  display: block;
+  display: inline;
 }
 #video-background {
 /*  making the video fullscreen  */
