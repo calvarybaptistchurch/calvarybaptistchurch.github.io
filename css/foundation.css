@@ -4946,9 +4946,10 @@ nav {
 
 .socialiconleft {
   font-weight: 800;
-  max-width: 80px;
-  margin: 10px;
+  max-width: 70px;
+  margin: 15px;
   display: inline-block;
+  float: left;
 }
 
 .center-text {
